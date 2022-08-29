@@ -67,14 +67,16 @@ li:hover {
   border-bottom: 6px white solid;
   font-size: 5vh;
 }
-
+.packageList :hover {
+  color: white;
+}
 .packages {
   width: 75%;
   margin: 0 auto;
   margin-top: 50px;
   font-size: 1.3vw;
   font-weight: bold;
-  color: white;
+  /* color: white; */
 }
 
 .packages h1 {
